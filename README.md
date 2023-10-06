@@ -1,6 +1,6 @@
 <img align="center" alt = "coding" width = "1000" src ="https://github.com/IT21203244/IT21203244/blob/main/download111.jpeg">
 <h1 align="center">Hi 👋, I'm Suren Vithanage</h1>
-<h3 align="center">Programming: where magic happens.</h3>
+<h3 align="center">Programming: Where Magic Happens.</h3>
 
 <img align="right" alt = "coding" width = "400" src ="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
